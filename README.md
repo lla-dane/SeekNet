@@ -1,4 +1,4 @@
-### README: SEEKNET 🚀
+[demo-seeknet.webm](https://github.com/lla-dane/SeekNet/assets/120122716/735378f2-25f3-4e4a-a1e3-5d6fbc346156)### README: SEEKNET 🚀
 
 SeekNet is a chat application crafted for the command-line interface (CLI), specifically tailored for use within a terminal and bypassing the necessity of a browser interface. While it's not yet ready for production-level deployment, you're encouraged to try it out and have fun with the terminal through the provided setup.
 
@@ -6,14 +6,14 @@ SeekNet is a chat application crafted for the command-line interface (CLI), spec
 
 ##### Linux
 
-**Setting up the Environment:**
+### 🚨Setting up the Environment:
 
 1. Install Golang:
    ```bash
    sudo apt install golang-go
    ```
 2. Clone the repository:
-  ```bash
+    ```bash
    git clone [repo_url] && cd [repo_name]
    ```
 3. Install the wscat client:
@@ -23,9 +23,35 @@ SeekNet is a chat application crafted for the command-line interface (CLI), spec
    sudo npm install -g wscat
    ```
 4. Cleaning the go.mod file
-  ```bash
+   ```bash
    go mod tidy
    ```
+
+
+ ### 🔥Ignite the Engines:
+
+   - Golang:
+     ```bash
+     go build
+     ./seeknet
+     ```
+   - Now open up a few terminals and to this address:
+     ```bash
+     wscat -c ws://localhost:5000/ws
+     ```
+
+     ### Now enter the password and username and test it out
+
+
+     ## DEMO:
+     
+      [demo-seeknet.webm](https://github.com/lla-dane/SeekNet/assets/120122716/401daebb-62f2-452c-9f96-def172175654)
+
+
+
+
+
+
 
 
   
