@@ -1,4 +1,4 @@
-### README: SEEKNET 🚀
+# README: SEEKNET 🚀
 
 SeekNet is a chat application crafted for the command-line interface (CLI), specifically tailored for use within a terminal and bypassing the necessity of a browser interface. While it's not yet ready for production-level deployment, you're encouraged to try it out and have fun with the terminal through the provided setup.
 
@@ -43,9 +43,16 @@ SeekNet is a chat application crafted for the command-line interface (CLI), spec
      ### Now enter the password and username and test it out
 
 
-     ## DEMO:
+     # DEMO:
      
       [demo-seeknet.webm](https://github.com/lla-dane/SeekNet/assets/120122716/401daebb-62f2-452c-9f96-def172175654)
+
+       This project is dedicated to testing and exploring the functionality of websockets in Golang, utilizing the
+        ```bash
+        github.com/gorilla/websocket
+        ```
+      The focus is on implementing and fine-tuning websocket features within the project, allowing for comprehensive testing and assessment of the capabilities provided by this particular package in the Go programming language. The goal is to gain       a deeper understanding of websockets and their integration in Golang through practical experimentation and analysis.
+ 
 
 
 
