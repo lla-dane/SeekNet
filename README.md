@@ -1,4 +1,4 @@
-[demo-seeknet.webm](https://github.com/lla-dane/SeekNet/assets/120122716/735378f2-25f3-4e4a-a1e3-5d6fbc346156)### README: SEEKNET 🚀
+### README: SEEKNET 🚀
 
 SeekNet is a chat application crafted for the command-line interface (CLI), specifically tailored for use within a terminal and bypassing the necessity of a browser interface. While it's not yet ready for production-level deployment, you're encouraged to try it out and have fun with the terminal through the provided setup.
 
